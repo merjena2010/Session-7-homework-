@@ -1,2 +1,3 @@
-# Session-7-homework-
-Session 7 homework 
+I chose minecraft because I really enjoy playing it and wanted to share some tips and cool things,links of images 
+The<table> tag was new to me.I hadnt used it before and i learned how to make rows and columns to organize information
+I learned that an HTML page needs a proper structure with<!DOCTYPE html>,<html><head>,and <body> tags.Each section of the page has its purpose,like headings,paragraphs,lists,images and links and it all comes together to make a webpage organized and easy to read.

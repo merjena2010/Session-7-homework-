@@ -1,0 +1,51 @@
+body {
+    background-color: lightblue;
+}
+/* 1. Background color for the whole page */
+body {
+    background-color: #e3f2fd; /* Light blue */
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+/* 2. Header styling - Blue and centered */
+h1 {
+    color: #1a237e; 
+    text-align: center;
+}
+
+/* 3. Paragraph text styling */
+p {
+    color: blue;
+    font-size: 36px;
+}
+
+/* 4. Intro section with shadow and rounded corners */
+.intro {border: 2px solid #1a237e;
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 2px 2px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+/* 5. Tips section with background and shadow */
+.tips {
+    background-color: #fff9c4; /* Soft yellow */
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+/* 6. Hover effect for list items in .tips */
+.tips li {
+    padding: 10px;
+    transition: 0.3s;
+    list-style: none;
+}
+
+.tips li:hover {
+    background-color: #fff176; /* Changes color when you touch it with the mouse */
+    cursor: pointer;
+    border-radius: 8px;
+}
